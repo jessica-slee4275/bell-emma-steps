@@ -1,0 +1,7 @@
+C:\Users\asdfk\source\repos\EmmaSteps\EmmaSteps\bin\Debug\EmmaSteps.exe.config
+C:\Users\asdfk\source\repos\EmmaSteps\EmmaSteps\bin\Debug\EmmaSteps.exe
+C:\Users\asdfk\source\repos\EmmaSteps\EmmaSteps\bin\Debug\EmmaSteps.pdb
+C:\Users\asdfk\source\repos\EmmaSteps\EmmaSteps\obj\Debug\EmmaSteps.csprojAssemblyReference.cache
+C:\Users\asdfk\source\repos\EmmaSteps\EmmaSteps\obj\Debug\EmmaSteps.csproj.CoreCompileInputs.cache
+C:\Users\asdfk\source\repos\EmmaSteps\EmmaSteps\obj\Debug\EmmaSteps.exe
+C:\Users\asdfk\source\repos\EmmaSteps\EmmaSteps\obj\Debug\EmmaSteps.pdb
